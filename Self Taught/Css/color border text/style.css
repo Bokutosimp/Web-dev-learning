@@ -1,0 +1,41 @@
+body {
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  h1 {
+    color: white;
+    font-family: "press Start 2P", "consolas", sans-serif;
+    border-top-style: dashed;
+    border-top-width: 3px;
+    border-bottom-style: dashed;
+    border-bottom-width: 3px;
+    padding: 10px;
+  }
+  p{
+    color: white;
+    font-family: "Montserrat";
+  }
+  .odd{
+    color: red;
+    font-style: italic;
+    text-decoration: orange dotted underline;
+  }
+  .even{
+    color: blue;
+    font-weight: bold;
+  }
+  #p5{
+    border-style: double;
+    border-width: 5px;
+    border-color: cyan;
+    border-radius: 10px;
+    padding: 5px;
+  }
+  .button{
+    text-decoration: none;
+    border-style: double;
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+    padding: 5px;
+  }
